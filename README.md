@@ -3,6 +3,12 @@
 [![CI.badge]][CI.link]
 [![LICENSE.badge]][LICENSE.link]
 
+Added feature by sunduk :
+- Print the only one when key equals value.
+- Added macro ICECREAM_PRINT_CHAR_ARRAY_AS_STRING to print char array as string.
+
+---
+
 IceCream-Cpp is a little (single header) library to help with the print debugging on C++11 and forward.
 
 [Try it at godbolt!](https://godbolt.org/z/zgvv79)
